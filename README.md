@@ -5,6 +5,6 @@ I'm Jeison, a Software Engineer From Victoria University. I build tools, website
 🔨Build during the day | 🔒Cyber Security researcher by night
       Also a content creator at https://www.youtube.com/@jeiso_n
 
-### Lets me teach you what i know at...
+### Let me teach you what i know at my...
 
-[![Youtube](https://www.youtube.com/@jeiso_n)]
+[Youtube](https://www.youtube.com/@jeiso_n)
